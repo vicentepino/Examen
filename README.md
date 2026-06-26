@@ -97,3 +97,6 @@ El sistema procesa las entradas del usuario mediante lógica basada en estados, 
 
 ## Diagrama de flujo
 ![Diagrama](Diagrama.png).
+
+## Proceso
+
