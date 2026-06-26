@@ -101,7 +101,8 @@ El sistema procesa las entradas del usuario mediante lógica basada en estados, 
 ## Referentes
 Como referentes ocupe un poco de mi solemne II, siendo el referente diseños de la bauhaus, esto se ve mayoritariamente en el circulo grande en medio de el canvas.
 Y en cuanto al otro referente que ocupe fue videojuegos antiguos, ya que sus interfaces eran coloridas y con bastante ruido visual.
-
+![referente1](referente1.png)
+![referente2](referente2.png)
 
 ## Proceso
 ![captura1](captura1.png)
@@ -128,3 +129,6 @@ Aqui repetí los pequeños circulos morados en el fondo y agregue tanto el circu
 ![captura8](captura8.png)
 En esta parte hice los cambios de color correspondientes para que todo tuviera un sentido y armonía visual, así haciendo que todo estuviera conectado.
 
+# Link al sketch en p5.js
+
+[Link p5.js](https://editor.p5js.org/vichoo/sketches/VQIrLR-Lt)
