@@ -94,3 +94,6 @@ El sistema procesa las entradas del usuario mediante lógica basada en estados, 
 - **Mapeo de valores (`map()`)**: transforma la cantidad de círculos en tamaños dinámicos para efectos visuales.
 - **Funciones matemáticas (`sin()`)**: generan animaciones de pulso y movimiento continuo.
 - **Procesamiento multimedia**: el video es renderizado dentro de formas circulares mediante recorte y redimensionamiento.
+
+## Diagrama de flujo
+¡[Diagrama](Diagrama.png).
