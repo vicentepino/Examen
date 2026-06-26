@@ -129,6 +129,10 @@ Aqui repetí los pequeños circulos morados en el fondo y agregue tanto el circu
 ![captura8](captura8.png)
 En esta parte hice los cambios de color correspondientes para que todo tuviera un sentido y armonía visual, así haciendo que todo estuviera conectado.
 
+Durante el desarrollo de este proyecto aprendí mucho sobre cómo crear un sistema interactivo en p5.js. Lo que más me costó fue organizar la lógica del programa para que las distintas pantallas funcionaran correctamente y lograr que todas las transiciones ocurrieran sin errores.
+También fue un desafío manejar los arreglos de círculos, hacer que se duplicaran y se ordenaran de forma fluida, además de integrar el video en la pantalla final sin afectar el resto del funcionamiento del código.
+A pesar de las dificultades, siento que logré el resultado que buscaba. Este proyecto me permitió aprender nuevas funciones de p5.js y entender mejor cómo estructurar un programa interactivo para que la experiencia del usuario fuera clara y dinámica.
+
 # Link al sketch en p5.js
 
 [Link p5.js](https://editor.p5js.org/vichoo/sketches/VQIrLR-Lt)
