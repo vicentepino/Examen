@@ -96,7 +96,35 @@ El sistema procesa las entradas del usuario mediante lógica basada en estados, 
 - **Procesamiento multimedia**: el video es renderizado dentro de formas circulares mediante recorte y redimensionamiento.
 
 ## Diagrama de flujo
-![Diagrama](Diagrama.png).
+![Diagrama](Diagrama.png)
+
+## Referentes
+Como referentes ocupe un poco de mi solemne II, siendo el referente diseños de la bauhaus, esto se ve mayoritariamente en el circulo grande en medio de el canvas.
+Y en cuanto al otro referente que ocupe fue videojuegos antiguos, ya que sus interfaces eran coloridas y con bastante ruido visual.
+
 
 ## Proceso
+![captura1](captura1.png)
+Aqui estaba recien iniciando el codigo y empece por la primera pantalla de el juego, empece con el circulo y posteriormente con las palabras, y poco a poco le fui agregando diferentes codigos.
+
+![captura2](captura2.png)
+en esta parte probe el cambiar la tipografia y poner una descargada y elegida por mi, y de igual manera fui viendo y probando hasta que me decidi.
+
+![captura3](captura3.png)
+Aqui empece a probar como seria la pantalla de juego, teneniendo varias opciones de como se van organizando los circulos.
+
+![captura4](captura4.png)
+Al momento de intentar poner el video, me ocurrio un herror y estuve bastante tiempo intentando solucionar ese problema hasta que puse el codigo `drawingContext` y se soluciono.
+
+![captura5](captura5.png)
+En esta parte descubrí como hacer que se vayan organizando los circulos, y arregle el que no se viera el video.
+
+![captura6](captura6.png)
+Aqui ya empece a testear la ultima pantalla, primero empece con cosas basicas, como el titulo y subtitulo.
+
+![captura7](captura7.png)
+Aqui repetí los pequeños circulos morados en el fondo y agregue tanto el circulo como el video de la ardilla bailando.
+
+![captura8](captura8.png)
+En esta parte hice los cambios de color correspondientes para que todo tuviera un sentido y armonía visual, así haciendo que todo estuviera conectado.
 
