@@ -96,4 +96,6 @@ El sistema procesa las entradas del usuario mediante lógica basada en estados, 
 - **Procesamiento multimedia**: el video es renderizado dentro de formas circulares mediante recorte y redimensionamiento.
 
 ## Diagrama de flujo
-¡[Diagrama](Diagrama.png).
+![Diagrama](Diagrama.png).
+
+
